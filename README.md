@@ -2,5 +2,6 @@
 ## sub header
 我的第一个github repo
 just regular text in between
-- list item1
-- list item2
+- jingsun
+- cooking,researching,reading
+- summary,picture,regression
